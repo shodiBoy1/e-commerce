@@ -1,4 +1,3 @@
-
 # Bozoor Web Application
 
 ## Overview
@@ -59,10 +58,4 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Distributed under the [LICENSE] License. See `LICENSE` file for more information.
 
-## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your_username/your_project](https://github.com/your_username/your_project)
